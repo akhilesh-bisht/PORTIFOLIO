@@ -1,5 +1,4 @@
 import React from "react";
-import LinkedIn from "../assets/linkedin.svg";
 
 function Contact() {
   return (
