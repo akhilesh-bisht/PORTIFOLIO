@@ -7,7 +7,7 @@ import ArrowDown from "./assets/arrow-down.svg";
 import Project from "./components/Project";
 import Skill from "./components/Skill";
 import About from "./components/About";
-import Contact from "./components/Contact";
+import Contact from "./components/contact";
 import Footer from "./components/Footer";
 import ContactSection from "./components/ContactSection";
 
