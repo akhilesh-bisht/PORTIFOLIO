@@ -1,16 +1,18 @@
 import React from "react";
 import myimg from "../assets/myimg.jpg";
-import myResume from "../assets/resume/resume.pdf";
+import myResume from "../assets/resume/akhileshR.pdf";
 
 function Intro() {
   const handleDownloadResume = () => {
     const link = document.createElement("a");
     link.href = myResume;
-    link.download = "Akhilesh_Resume.docx";
+    link.download = "akhileshR.pdf";
+    window.open(myResume, "_blank");
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
   };
+
   return (
     <section>
       <div className="container m-auto px-4 pt-12 pb-12 sm:pt-20 flex flex-col sm:flex-row gap-6 text-center sm:text-left">
