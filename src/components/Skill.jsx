@@ -40,14 +40,14 @@ function Skill() {
             <div className="flex justify-between items-center">
               <h2 className="font-semibold">JavaScript</h2>
             </div>
-            <span className="w-[70%] h-2 mt-2 bg-gradient-to-t from-blue-500 to-cyan-500 block rounded-md" />
+            <span className="w-[85%] h-2 mt-2 bg-gradient-to-t from-blue-500 to-cyan-500 block rounded-md" />
           </div>
 
           <div className="mt-8">
             <div className="flex justify-between items-center">
               <h2 className="font-semibold">React</h2>
             </div>
-            <span className="w-[60%] h-2 mt-2 bg-gradient-to-t from-blue-500 to-cyan-500 block rounded-md" />
+            <span className="w-[70%] h-2 mt-2 bg-gradient-to-t from-blue-500 to-cyan-500 block rounded-md" />
           </div>
           <div className="mt-8">
             <div className="flex justify-between items-center">
@@ -59,7 +59,7 @@ function Skill() {
             <div className="flex justify-between items-center">
               <h2 className="font-semibold">Git</h2>
             </div>
-            <span className="w-[45%] h-2 mt-2 bg-gradient-to-t from-blue-500 to-cyan-500 block rounded-md" />
+            <span className="w-[55%] h-2 mt-2 bg-gradient-to-t from-blue-500 to-cyan-500 block rounded-md" />
           </div>
         </div>
       </section>
