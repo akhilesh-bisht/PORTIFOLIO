@@ -26,12 +26,12 @@ function About() {
               2021-2024
             </h3>
             <p>
-              I am currently enrolled at Doon University, where I am pursuing my
-              Bachelor of Science degree. My academic pursuits have exposed me
-              to a diverse range of subjects, providing me with a well-rounded
-              foundation in various fields. The interdisciplinary nature of my
-              studies has allowed me to develop critical thinking and
-              problem-solving skills.
+              I am currently enrolled at Bhakt Darshan Got.P.G. College, where I
+              am pursuing my Bachelor of Art degree. My academic pursuits have
+              exposed me to a diverse range of subjects, providing me with a
+              well-rounded foundation in various fields. The interdisciplinary
+              nature of my studies has allowed me to develop critical thinking
+              and problem-solving skills.
             </p>
           </div>
 
