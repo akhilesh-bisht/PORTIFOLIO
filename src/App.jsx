@@ -10,6 +10,7 @@ import About from "./components/About";
 import Contact from "./components/contact";
 import Footer from "./components/Footer";
 import ContactSection from "./components/ContactSection";
+import bg from "./assets/background.jpg";
 
 function App() {
   const [scrolling, setScrolling] = useState(false);
@@ -30,7 +31,7 @@ function App() {
   }, []);
 
   return (
-    <div className="max-w-4xl m-auto relative">
+    <div className="max-w-4xl m-auto relative ">
       <Navbar></Navbar>
       <main className="relative mt-28">
         <Intro></Intro>

@@ -5,6 +5,7 @@ import Learn from "../assets/Learn.png";
 import weather from "../assets/weather.png";
 import music from "../assets/music.png";
 import dice from "../assets/dice.png";
+import twitter from "../assets/twitter.png";
 
 function Project() {
   return (
@@ -64,17 +65,15 @@ function Project() {
           </div>
           <div className="flex flex-col sm:flex-row  gap-10 mt-11">
             <div className="border border-gray-500 rounded-md p-5 flex-1">
-              <img src={music} className="w-full h-auto" />
-              <h3 className="text-2xl font-semibold mt-8">
-                Website design for online music website ui
-              </h3>
+              <img src={twitter} className="w-full h-auto" />
+              <h3 className="text-2xl font-semibold mt-8">X(Twitter)</h3>
               <p className="text-gray-400 text-sm mt-2">
-                HTML/CSS layout for The music website project. HTML5, CSS3
+                twitter clone ui using html or tailwind css
               </p>
               <div className="flex gap-2 mt-12">
                 <a
                   className="flex-1 text-sm py-3 border rounded-full hover:border-blue-500 hover:text-blue-500 text-center"
-                  href="https://github.com/akhilesh-bisht/music-website.git"
+                  href="https://github.com/akhilesh-bisht/x-clone.git"
                 >
                   Checkout github
                 </a>
